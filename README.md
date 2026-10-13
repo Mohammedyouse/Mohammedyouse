@@ -24,39 +24,47 @@
 <br clear="right" />
 
 ---
-
 ## 🌐 Connect with Me
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mohammed-al-hajj-a3b912288/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light"
          alt="LinkedIn" width="45" height="45" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_PERSONAL_EMAIL">
-    <img src="https://img.icons8.com/color/96/gmail-new.png"
-         alt="Email" width="45" height="45" />
-  </a>
-  &nbsp;&nbsp;
+
+  <!-- GitHub -->
   <a href="https://github.com/Mohammedyouse" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=light"
          alt="GitHub" width="45" height="45" />
   </a>
   &nbsp;&nbsp;
+
+  <!-- Portfolio -->
+  <a href="https://mohammed-alhajj.netlify.app/" target="_blank">
+    <img src="https://png.pngtree.com/png-vector/20190330/ourmid/pngtree-vector-portfolio-icon-png-image_894864.jpg"
+         alt="Portfolio" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- Email -->
+  <a href="mailto:myousefyemen751@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png"
+         alt="Email" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/Mohammed_Al-Hajj/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
          alt="LeetCode" width="45" height="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://mohammed-alhajj.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Mohammedyouse/Mohammedyouse/main/assets/portfolio-icon.jpg"
-         alt="Portfolio" width="65" height="65" />
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack :
 
 ### 🧑‍💻 Programming Languages
 
@@ -212,16 +220,20 @@
 
 ---
 
-## 💭 Quote I Live By
+
+
+
+## 💬 Quote I Live By
+
 <div align="center">
 
-<h3>🔥 Ever tried. Ever failed.</h3>
+<h1>💪 "Ever tried. Ever failed."</h1>
 
-<p><em>“No matter. Try again. Fail again. Fail better.”</em></p>
+<h2><em>✨ "No matter. Try again. Fail again. Fail better."</em></h2>
 
-<h2>🌍 The world is yours.</h2>
+<h1>🌎 "The world is yours."</h1>
 
-<p><em>Turn every failure into a lesson, and every lesson into progress.</em></p>
+<h3><em>🚀 "Turn every failure into a lesson, and every lesson into progress."</em></h3>
 
 </div>
 
