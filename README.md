@@ -28,20 +28,29 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-al-hajj-a3b912288/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" height="40" />
+  <a href="https://www.linkedin.com/in/mohammed-al-hajj-a3b912288/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light"
+         alt="LinkedIn" width="45" height="45" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:YOUR_PERSONAL_EMAIL">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" alt="Email" height="40" />
+    <img src="https://img.icons8.com/color/96/gmail-new.png"
+         alt="Email" width="45" height="45" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Mohammedyouse">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" height="40" />
+  <a href="https://github.com/Mohammedyouse" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=light"
+         alt="GitHub" width="45" height="45" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Mohammed_Al-Hajj/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" />
+  <a href="https://leetcode.com/u/Mohammed_Al-Hajj/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+         alt="LeetCode" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mohammed-alhajj.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Mohammedyouse/Mohammedyouse/main/assets/portfolio-icon.jpg"
+         alt="Portfolio" width="65" height="65" />
   </a>
 </p>
 
