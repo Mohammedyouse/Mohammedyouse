@@ -24,6 +24,7 @@
 <br clear="right" />
 
 ---
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -42,7 +43,7 @@
   &nbsp;&nbsp;
 
   <!-- Portfolio -->
-  <a href="https://mohammed-alhajj.netlify.app/" target="_blank">
+  <a href="https://mohammed-alhajj-portfolio.netlify.app/" target="_blank">
     <img src="https://png.pngtree.com/png-vector/20190330/ourmid/pngtree-vector-portfolio-icon-png-image_894864.jpg"
          alt="Portfolio" width="45" height="45" />
   </a>
@@ -233,12 +234,14 @@
 
 <h1>🌎 "The world is yours."</h1>
 
-<h3><em>🚀 "Turn every failure into a lesson, and every lesson into progress."</em></h3>
-
-</div>
 
 ---
 
+
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammedyouse&style=for-the-badge&color=blue" alt="Profile views" />
+
+![Profile Views](https://view-counter.tobyhagan.com/?user=Mohammedyouse)
+
 </div>
+
